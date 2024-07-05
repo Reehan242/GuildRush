@@ -9,6 +9,14 @@ public class AudioEfect : MonoBehaviour
     public AudioClip hover;
     public AudioClip pressed;
 
+    private void OnEnable()
+    {
+        BuyManager.PurchasedItem += ClickSound;
+    }
+    private void OnDisable()
+    {
+        BuyManager.PurchasedItem -= ClickSound;
+    }
     public void HoverSound()
     {
         Audio_Efek.PlayOneShot(hover);
