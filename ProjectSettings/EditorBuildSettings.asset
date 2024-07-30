@@ -6,15 +6,45 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Recruitmet/Scenes/Intro.unity
-    guid: 0dc1ec2a299bceb408b720452e2dda9b
+    path: Assets/Scenes/MAIN SCREEN.unity
+    guid: ebeef2d8e31b4674486ee4fc43ad6314
   - enabled: 1
-    path: Assets/Recruitmet/Scenes/Menu.unity
-    guid: c7ace3d8cfabe5a43afa634fcfe002f4
+    path: Assets/Scenes/GuildScreen.unity
+    guid: 0a81bdb8b1dd0ac4e86e134d3786bf39
   - enabled: 1
-    path: Assets/Scenes/Pinball.unity
+    path: Assets/Scenes/AdventurerScreen.unity
+    guid: ccd51f820419a814d86aec13ce16ee42
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Credit.unity
-    guid: 8760b4d666dd36e4491544e3dd908614
+    path: Assets/Scenes/FacilityScren.unity
+    guid: 7cbb8bb9afa2efe448c53f29b401765f
+  - enabled: 1
+    path: Assets/Scenes/InventoryScene.unity
+    guid: 9b883bc012a8d5a419dd45aa6d3f1e66
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c7ace3d8cfabe5a43afa634fcfe002f4
+  - enabled: 1
+    path: Assets/Scenes/QuestScene.unity
+    guid: d206312b280da5e469d66a98d61c62d7
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: c5b34c39f0b06d1488cbe2dbeccf8f41
+  - enabled: 1
+    path: Assets/Scenes/ShopAndInventoryScene.unity
+    guid: 2973f7c09ab3dd543a6ab03a95e12c3b
+  - enabled: 1
+    path: Assets/Scenes/Facility Screen.unity
+    guid: ef8c1287de07ff948a1128ebb90331a7
+  - enabled: 1
+    path: Assets/Scenes/BlacksmithScreen.unity
+    guid: 653d69c413756054092b03daa67254e0
+  - enabled: 1
+    path: Assets/Scenes/TestUI.unity
+    guid: 7ca2301665b41364384922149e7d8a94
+  - enabled: 1
+    path: Assets/Scenes/AdventurerScreenList.unity
+    guid: f0088a36fcfa31447b6d1d65be7b963c
   m_configObjects: {}

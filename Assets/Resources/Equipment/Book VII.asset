@@ -9,13 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de341943ad6c48848ac3841e2fc84c7d, type: 3}
+  m_Script: {fileID: 11500000, guid: 60db852f96a9dd741a9ef310994d8358, type: 3}
   m_Name: Book VII
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 919132149155446097, guid: b87d13b2dd7698d45a9bfcd7db6b8685, type: 3}
   type: 0
   description: 
   ID: 47
+  uniqueID: 0
   level: 1
   hpBonus: 0
   atkBonus: 22

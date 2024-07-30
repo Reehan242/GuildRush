@@ -144,9 +144,7 @@
         {
             "userAdded": false,
             "type": "UnityEngine.Texture2D",
-            "ignore": false,
-            "defaultInstantiationMode": 0,
-            "supportsModification": true
+            "defaultInstantiationMode": 0
         },
         {
             "userAdded": false,

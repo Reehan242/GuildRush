@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06792d21d09188c4fa63a37ed6e486aa, type: 3}
+  m_Name: Facility003
+  m_EditorClassIdentifier: 
+  facilityID: 3
+  facilityName: Blacksmith
+  facilityDescription: place for guild manager to upgrade equipment
+  Level: 0
+  UnlockRank: 1
+  maxLevel: 7
+  upgradeCost: c409000070170000e02e0000085200001879000048ee0000289a0100

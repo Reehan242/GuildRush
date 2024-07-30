@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eccb05ff1a2ee724f9060f46a496a922, type: 3}
+  m_Name: Q1-Rank F
+  m_EditorClassIdentifier: 
+  questRank: 0
+  ID: 1
+  NameQuest: Slime
+  Description: Dapatkan Slime Sebagai Pembersih Rumput Liar
+  enemyData:
+  - {fileID: 11400000, guid: 37eb0f37c4dc66241b89998e14dbc6a4, type: 2}
+  exp: 100
+  TrainingPoints: 1
+  Gold: 100
+  guildRankReward: 0

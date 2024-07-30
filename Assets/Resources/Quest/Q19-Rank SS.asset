@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eccb05ff1a2ee724f9060f46a496a922, type: 3}
+  m_Name: Q19-Rank SS
+  m_EditorClassIdentifier: 
+  questRank: 7
+  ID: 19
+  NameQuest: Dragon
+  Description: Dragon Bangun Dari Hibernasinya Sedang Menyerang Sebuah Desa
+  enemyData:
+  - {fileID: 11400000, guid: 9b5f45c3a3bfe1e44a53e61d7135209a, type: 2}
+  - {fileID: 11400000, guid: 9b5f45c3a3bfe1e44a53e61d7135209a, type: 2}
+  - {fileID: 11400000, guid: 9b5f45c3a3bfe1e44a53e61d7135209a, type: 2}
+  exp: 0
+  TrainingPoints: 0
+  Gold: 5250
+  guildRankReward: 1

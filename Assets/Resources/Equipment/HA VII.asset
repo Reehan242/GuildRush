@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de341943ad6c48848ac3841e2fc84c7d, type: 3}
+  m_Script: {fileID: 11500000, guid: 60db852f96a9dd741a9ef310994d8358, type: 3}
   m_Name: HA VII
   m_EditorClassIdentifier: 
   prefab: {fileID: 0}

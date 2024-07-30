@@ -1,0 +1,4 @@
+repository "Guild-Rush@Opestt@cloud"
+  path "/"
+    br "/main"
+    co "/main"
